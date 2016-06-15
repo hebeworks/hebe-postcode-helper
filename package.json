@@ -1,0 +1,16 @@
+{
+  "name": "hebe-postcode-helper",
+  "version": "1.0.0",
+  "description": "Load Longitude/Latitude from UK Postcodes",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nathan Smith",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.12.0",
+    "sync-request": "^3.0.0",
+    "underscore": "^1.8.3"
+  }
+}
